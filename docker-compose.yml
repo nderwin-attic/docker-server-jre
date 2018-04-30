@@ -4,4 +4,4 @@ services:
     server-jre:
         build:
             context: .
-        image: nderwin/docker-server-jre:8u171
+        image: nderwin/docker-server-jre:latest
