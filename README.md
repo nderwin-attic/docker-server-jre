@@ -1,3 +1,7 @@
+## Deprecated
+
+There are now better base images, so this project is no longer needed.
+
 # Docker Server JRE Image
 
 This image creates a basic Debian image with the latest Oracle Server JRE installed.
